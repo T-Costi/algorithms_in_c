@@ -4,7 +4,7 @@ Implementations of classic algorithms and data structures in C, with tests and c
 **Goals**
 - Learn algorithm design
 - Practice clean C programming
-- Practice clean C programming
+- Understand time and space complexity
 - Write reusable and tested code
 
 **Implemented algorithms**
